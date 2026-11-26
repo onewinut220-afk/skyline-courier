@@ -1,9 +1,13 @@
 # Skyline Courier
 
+[![make.fun bounty](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/onewinut220-afk/skyline-courier/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/onewinut220-afk/skyline-courier/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
+
 A complete, original HTML5 flight game for the make.fun bounty
 **best-flight-game-20261126-0057** ($500 pot, top 50 share it).
 
-Bounty: https://make.fun/bounty/best-flight-game-20261126-0057
+Bounty: [https://make.fun/bounty/best-flight-game-20261126-0057](https://make.fun/bounty/best-flight-game-20261126-0057)
 
 You fly a bush-plane courier across the island of Skylark. Each mission
 gives you a route of glowing rings to fly through in order, then a runway
